@@ -12,6 +12,8 @@
 
 ## 딥러닝 모델
 
+<img src = "https://user-images.githubusercontent.com/74392995/180745170-8f3a53ac-3e81-4c23-b2f9-84206ca0fd05.png" width = "60%" height = "40%">
+
 1. Microsoft AI for Earth에서 개발한 Faster R-CNN(InceptionResNetv2 	Backbone)기반의 모델인 Megadetector을 이용하며 Megadetector는 동물, 사람, 탈것 탐지
 2. 대규모 이미지를 훈련시킨 사전 학습 모델을 제공해 효과적으로 학습을 수행할 수 있음 
 
